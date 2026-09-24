@@ -4,5 +4,15 @@
     <title>Big Brother</title>
     <language>en</language>
     <!-- ITEMS -->
+    <item>
+      <title>Big Brother 1.1</title>
+      <pubDate>Thu, 24 Sep 2026 15:26:07 +0100</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- The app now updates itself. When a new version is out it offers to install
+  it, and only installs a download whose signature checks out.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.1/BigBrother-1.1.apk" sparkle:edSignature="qZOzP/8U/Frm5On/SCNpvAlqx7wPe5uJc4mjn8889sh5XeCHeusxsM7aGtREljbTWyrHSDgLbhN8YkFxcuw3BA==" length="16825754" type="application/vnd.android.package-archive"/>
+    </item>
   </channel>
 </rss>
