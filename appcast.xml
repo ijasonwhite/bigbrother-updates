@@ -5,6 +5,19 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 1.3</title>
+      <pubDate>Thu, 24 Sep 2026 16:02:55 +0100</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Updates turn up much sooner. The app looks for one every half hour while
+  it's open, instead of only when you open it and then not again for six
+  hours, so a tablet left on the dashboard all day now finds them too.
+- The pairing screen checks for updates as well.
+- "Later" holds an update back for a day instead of until the next one.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.3/BigBrother-1.3.apk" sparkle:edSignature="E+zZ2sw1qRo05z04GT3fwhTfCQD64lwYHqeztiM2MZaXqscGbVAwFFW5rI47hHy1QpB7wsUhmXl2xlt7p9OyBA==" length="16826960" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.2</title>
       <pubDate>Thu, 24 Sep 2026 15:58:13 +0100</pubDate>
       <sparkle:version>3</sparkle:version>
