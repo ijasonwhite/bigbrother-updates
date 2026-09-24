@@ -5,6 +5,20 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 1.8</title>
+      <pubDate>Thu, 24 Sep 2026 16:39:52 +0100</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- A stats log. Every time a server reports in, or changes between online,
+  alert and offline, the app stores its CPU, RAM, load, uptime, fullest disk
+  and any watched services that are down. It keeps 60 days and drops anything
+  older by itself.
+- Cog, then Stats log, shows how much is stored and the latest entries, and
+  downloads or shares the whole log as a CSV.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.8/BigBrother-1.8.apk" sparkle:edSignature="QaGvxIQQ8jw88ydyLiDG/Iu6zh4rWgYB0DoeG77cpE5A0+F6EhcvNRHytK3EdnnCq7a8P0qL6gSyN6B83vLPAg==" length="16858361" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.7</title>
       <pubDate>Thu, 24 Sep 2026 16:31:52 +0100</pubDate>
       <sparkle:version>8</sparkle:version>
