@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 1.2</title>
+      <pubDate>Thu, 24 Sep 2026 15:58:13 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- The version number now shows at the bottom of the dashboard, so it's easy
+  to tell which build a phone is running.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.2/BigBrother-1.2.apk" sparkle:edSignature="Nj20Wn0I/GuVDq56WJ/6XpVUoifkP7qVvmYokMEjcs6HS8QmKmicIuvQgg2hDYoAA8zys6GPf3y4wrJUTjTgCA==" length="16826336" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.1</title>
       <pubDate>Thu, 24 Sep 2026 15:26:07 +0100</pubDate>
       <sparkle:version>2</sparkle:version>
