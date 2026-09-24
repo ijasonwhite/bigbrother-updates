@@ -5,6 +5,19 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 1.9</title>
+      <pubDate>Thu, 24 Sep 2026 16:44:59 +0100</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- The update prompt is readable. In light mode its title and release notes
+  were white on white, so it looked like an empty box with two buttons.
+- The Download and Share buttons on the stats log are blue with white text
+  instead of white on light grey.
+- Release notes in the update prompt no longer break mid-sentence.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.9/BigBrother-1.9.apk" sparkle:edSignature="mL8Tx6zgj5cQNsERu639rYJ/ww1jxcVgKQvK0tZwDIBVrhwzFzzAs/jMiNxPeNXvYsxPgtHsrlZWLrwC8Sh7CA==" length="16858769" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.8</title>
       <pubDate>Thu, 24 Sep 2026 16:39:52 +0100</pubDate>
       <sparkle:version>9</sparkle:version>
