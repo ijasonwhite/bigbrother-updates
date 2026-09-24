@@ -5,6 +5,17 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 1.6</title>
+      <pubDate>Thu, 24 Sep 2026 16:29:22 +0100</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- A cog next to the version number, bottom right, opens a menu with "Check
+  for updates". It checks straight away, skipping the 5 minute wait and any
+  "Later", and tells you if you're already up to date.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.6/BigBrother-1.6.apk" sparkle:edSignature="d2ujERoIhuzy8DpuVGCftrto8T/jCeJ44L+tIEM9GRoHaCksN5/bHTPoTEXUrA7P1f9naoIMJ7HmFtOL1p3hDg==" length="16836568" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.5</title>
       <pubDate>Thu, 24 Sep 2026 16:14:15 +0100</pubDate>
       <sparkle:version>6</sparkle:version>
