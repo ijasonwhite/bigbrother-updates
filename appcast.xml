@@ -5,6 +5,21 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.0</title>
+      <pubDate>Thu, 24 Sep 2026 17:22:40 +0100</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Each server card has a small pie next to its badge that fills up as the
+  server's next report comes due, instead of a "23s ago" count. It learns
+  how often each server reports, and turns amber if one goes quiet for two
+  of its usual gaps. Offline servers still show how long they've been gone.
+- Collapsed cards show CPU and RAM as big numbers above the small chart, in
+  red when over the server's alert threshold. Expanded cards show the same
+  numbers in the chart legend.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.0/BigBrother-2.0.apk" sparkle:edSignature="3Cdzx65o8ZxOwH7ZzG8YDfG+o7nA9pDgMGtYWxlDfwScMKJUZJNuxUo4RqKNnc610Yvn2UdFYvOrqan9F+EMAw==" length="16863364" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.9</title>
       <pubDate>Thu, 24 Sep 2026 16:44:59 +0100</pubDate>
       <sparkle:version>10</sparkle:version>
