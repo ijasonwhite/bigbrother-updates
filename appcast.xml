@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 1.7</title>
+      <pubDate>Thu, 24 Sep 2026 16:31:52 +0100</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- The cog menu is readable now. It came out white text on a white popup
+  when the device was in light mode.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v1.7/BigBrother-1.7.apk" sparkle:edSignature="jT5d8Izy3mVWp8lmsa0pcZb2ZxrXJitkEf7EPvycDJ1BsaqZgNU/ChoLokthB2p6k4XTIWCSCDiS0s71NDebBg==" length="16837060" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 1.6</title>
       <pubDate>Thu, 24 Sep 2026 16:29:22 +0100</pubDate>
       <sparkle:version>7</sparkle:version>
