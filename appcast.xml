@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.1</title>
+      <pubDate>Thu, 24 Sep 2026 17:36:48 +0100</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Expanded cards have a "Create Jira ticket" button. It opens a new Task in
+  Tech Support Mailbox (TSM) with the server, its status, CPU, RAM, load,
+  disks and any services down already filled in. You sign in to Jira as
+  yourself and press Create; the app holds no Jira login.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.1/BigBrother-2.1.apk" sparkle:edSignature="gOyXaAhWBl7B6bLkh4HYm3dU/0y5NK5IjQgfAxhfexjqiMqzhLqM4OJOM0qD9i09SZDRyc4ccLgAV1BpGnmeAw==" length="16868169" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.0</title>
       <pubDate>Thu, 24 Sep 2026 17:22:40 +0100</pubDate>
       <sparkle:version>11</sparkle:version>
