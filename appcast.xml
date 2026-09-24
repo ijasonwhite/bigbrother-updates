@@ -5,6 +5,21 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.2</title>
+      <pubDate>Thu, 24 Sep 2026 18:16:06 +0100</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Connect to Jira from the cog menu. Atlassian's sign-in opens inside the
+  app; approve once and you're back on the dashboard, connected.
+- Once connected, "Create Jira ticket" files the ticket straight into Jira as
+  you, with an optional note, and shows the new ticket number. Your Jira
+  login is held by the dashboard, never on the device.
+- Until a device is connected, the button still opens Jira's pre-filled
+  create page in the browser.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.2/BigBrother-2.2.apk" sparkle:edSignature="GayWs7wJgfihaW62co6PGoa2NgeSndwo9KR14hYh8BPfiOeoF0QyyEfEuY4xeaI81NfmJpCH9QnNRgV2/MCIAQ==" length="16956268" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.1</title>
       <pubDate>Thu, 24 Sep 2026 17:36:48 +0100</pubDate>
       <sparkle:version>12</sparkle:version>
