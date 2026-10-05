@@ -5,6 +5,23 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.6</title>
+      <pubDate>Mon, 05 Oct 2026 14:30:37 +0100</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- "Hey Kiosk" voice control. Switch it on from the cog menu, then say "Hey
+  Kiosk" and "stop music", "play music", "louder", "quieter" or "next
+  station", in one go or after the chime. The radio dips while it listens so
+  it can hear you, and a microphone icon by the version number shows it's on.
+- Voice sensitivity, 1 to 5, in the cog menu: how loudly you need to speak
+  and how sure it must be that it heard "Hey Kiosk".
+- Speech is recognised on the tablet with an offline engine (Vosk); nothing
+  is recorded or sent anywhere. The speech model (41 MB) downloads the first
+  time it's switched on.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.6/BigBrother-2.6.apk" sparkle:edSignature="arFHzyhVXfOLEA60liF3cOxDyEL6nfkfYYTIYqz2tb6kvCERo8kHrilSOtwNrFh5DNo8AVKP+tm1axjjDKiXAw==" length="33727626" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.5</title>
       <pubDate>Mon, 05 Oct 2026 14:04:03 +0100</pubDate>
       <sparkle:version>16</sparkle:version>
