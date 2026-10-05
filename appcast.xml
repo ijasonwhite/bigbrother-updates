@@ -5,6 +5,22 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.4</title>
+      <pubDate>Mon, 05 Oct 2026 13:43:52 +0100</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- A radio. The music note next to the version number turns BBC Radio 2 on
+  and off, and lights up green while it's playing. Cog, then Radio station,
+  switches between Radio 2, Radio 1, 6 Music and 1Xtra. It keeps playing if
+  the screen sleeps, plays through the tablet's speaker or whatever it's
+  connected to, and comes back on by itself if the app restarts while it
+  was playing.
+- When an admin has connected Jira for the whole dashboard, the cog menu
+  says so instead of offering to disconnect it.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.4/BigBrother-2.4.apk" sparkle:edSignature="CxC/GD6gsDh+CgrcY7GIxGHeq3sf8LYPV7ZW6NQezXJ78parYssugRGoykY3P44UvcElXP7111oysHN7sieHAg==" length="19815195" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.3</title>
       <pubDate>Thu, 24 Sep 2026 18:26:48 +0100</pubDate>
       <sparkle:version>14</sparkle:version>
