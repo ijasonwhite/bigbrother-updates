@@ -5,6 +5,26 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.5</title>
+      <pubDate>Mon, 05 Oct 2026 14:04:03 +0100</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- More radio stations: Kerrang!, Radio X, Capital, Capital XTRA, Capital
+  Dance, Heart, Heart 80s, Heart 90s, Smooth, Smooth Chill, Gold and Classic
+  FM, alongside the BBC ones. Pick from cog, then Radio station.
+- While the radio's on, a dot-matrix display runs along the bottom: a
+  scrolling LED ticker with the station, the song when the station sends it,
+  the stream's format and bitrate and how long it's been on air, and a
+  graphic equaliser that dances to the music, green to amber to red with
+  falling peak dots.
+- A volume slider, hidden until you tap the speaker at the left of the
+  display or press the volume buttons, then gone again after a few seconds.
+- If a station can't be played, the music note goes back to off instead of
+  looking stuck on "tuning in".</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.5/BigBrother-2.5.apk" sparkle:edSignature="DjjHq8m1m0vgnOmZI/5iWONsnz8MG2eo/vm3VwhOKPpHzs9+MZrC5tr5Nk6J1/EghpRxxGSAokyHTRrsrwr9BQ==" length="19831985" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.4</title>
       <pubDate>Mon, 05 Oct 2026 13:43:52 +0100</pubDate>
       <sparkle:version>15</sparkle:version>
