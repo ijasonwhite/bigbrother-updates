@@ -8,6 +8,11 @@ points at, so installed copies can find and verify updates. The newest build
 is always at
 [releases/latest/download/BigBrother.apk](https://github.com/ijasonwhite/bigbrother-updates/releases/latest/download/BigBrother.apk).
 
+The `voice-model-en-us-0.15` release also holds the offline speech model the
+app downloads when "Hey Kiosk" voice control is first switched on: an
+unmodified copy of Vosk's `vosk-model-small-en-us-0.15` (Apache 2.0). The app
+checks its SHA-256 before using it.
+
 **No application source, and no key of any kind, is ever published here.** The
 source lives in a separate private repository. Releases are published by
 `scripts/release.sh` in the app source tree, which builds, checks the APK for
