@@ -5,6 +5,25 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.9</title>
+      <pubDate>Fri, 16 Oct 2026 11:30:42 +0100</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Spoken alerts. When something goes wrong the kiosk now says what, after
+  the chime: "Marks Server has gone offline", "Funnel needs attention, CPU
+  at 94 percent and apache2 is down", "Habeas is failing, 503". It says so
+  again when it's fixed. The radio dips while it talks. Switch it off from
+  the cog menu if it gets chatty.
+- "Hey Kiosk, status report" reads out how everything is doing.
+- The numbers on the CPU/RAM graphs no longer pile up into a smudge. Each
+  line now labels its latest value, its high and low, and its biggest peaks
+  and dips, in bigger text, and skips any label that would overlap another.
+- Server and URL names show "&" properly instead of "&amp;", and a long
+  name wraps instead of pushing the status badge off the card.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.9/BigBrother-2.9.apk" sparkle:edSignature="2634w8RQjVeryE0caEWOGEetobRTLPL4NPqT4LNKn1lQ8eHQJxHRnwTQXGqytwuR4VcYkhwdiKNDNyCn90tgBw==" length="33765916" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.8</title>
       <pubDate>Fri, 16 Oct 2026 11:07:32 +0100</pubDate>
       <sparkle:version>19</sparkle:version>
