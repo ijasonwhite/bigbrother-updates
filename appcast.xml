@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.8</title>
+      <pubDate>Fri, 16 Oct 2026 11:07:32 +0100</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Swipe a card left to reveal a Hide button, tap it and that server or
+  watched URL disappears from this tablet's list. Hidden ones stay hidden
+  after a restart or update, don't sound the alert, and don't count in the
+  banner at the top. Bring them back from "Hidden items" in the cog menu.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.8/BigBrother-2.8.apk" sparkle:edSignature="Xt8w+dumaJKM6gjHQSPHfLZU2P4pbMcZxxfE6Bjgg3cT5/sLXjljFkmAUUi856Srn04BeLCXzUUqzkZxzzH0BA==" length="33754219" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.7</title>
       <pubDate>Fri, 16 Oct 2026 09:58:58 +0100</pubDate>
       <sparkle:version>18</sparkle:version>
