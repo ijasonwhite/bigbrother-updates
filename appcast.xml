@@ -5,6 +5,17 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Big Brother 2.7</title>
+      <pubDate>Fri, 16 Oct 2026 09:58:58 +0100</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>21</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- URL watchers. Watched URLs show in the server list with their status code,
+  and a failing one is pinned to the top like a server that's down. Tap one
+  to see its history of status-code changes.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/bigbrother-updates/releases/download/v2.7/BigBrother-2.7.apk" sparkle:edSignature="1qyLejwOVX7Q6e21EztXW6LH5pP8OP0MwK72wtnJSmC6vpM+CRBKyoG5yrFxdLSMubkJwU8ZIiqAQne+J7oSAA==" length="33745790" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Big Brother 2.6</title>
       <pubDate>Mon, 05 Oct 2026 14:30:37 +0100</pubDate>
       <sparkle:version>17</sparkle:version>
